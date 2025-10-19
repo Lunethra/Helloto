@@ -2,6 +2,7 @@
 name = "helloto"
 version = "1.0.0"
 description = "For saying hello."
+readme = { file = "README.md", content-type = "text/markdown" }
 authors = [
     { name="Lunethra" }
 ]
@@ -13,4 +14,5 @@ dependencies = [
 
 [project.scripts]
 helloto = "helloto.main:app"
+
 
