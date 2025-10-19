@@ -1,5 +1,5 @@
 [project]
-name = "hello"
+name = "helloto"
 version = "1.0.0"
 description = "For saying hello."
 authors = [
@@ -13,3 +13,4 @@ dependencies = [
 
 [project.scripts]
 helloto = "helloto.main:app"
+
