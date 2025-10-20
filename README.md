@@ -13,7 +13,7 @@ pip install helloto
 ### Project Link
 [Project link in Pypi](https://www.pypi.org/project/helloto)
 
-[Project link in Github](https://www.github.io/Lunethra/helloto)
+[Project link in Github](https://www.github.io/Lunethra/Helloto)
 ## Usage/Examples
 
 You can use the tool by just giving the name you want to greet.
@@ -33,4 +33,5 @@ To resolve issues and make suggestions, please visit the project's GitHub page.
 ## License
 
 This project uses [MIT License](https://github.com/Lunethra/Helloto/blob/main/LICENSE).
+
 
